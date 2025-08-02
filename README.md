@@ -17,4 +17,4 @@ HTML CSS
 
 ##Demonstração 
 Você pode visitar a landing page por aqui:
-**[Acessar Landing Page Local Turistico](https://leandrosani.github.io/projeto-travelgram/index.html)**
+**[Acessar Projeto Travelgram](https://leandrosani.github.io/projeto-travelgram/index.html)**
