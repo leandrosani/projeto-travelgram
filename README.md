@@ -1,3 +1,5 @@
+<img width="987" height="476" alt="image" src="https://github.com/user-attachments/assets/58da2ea2-b2ec-4d7f-9d7f-4e77ae8c60de" />
+
 Projeto para exercício e desenvolvido para praticar HTML, CSS Flex.
 display FLEX
 Estrutura HTML;
